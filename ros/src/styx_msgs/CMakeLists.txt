@@ -78,6 +78,7 @@ generate_messages(
   geometry_msgs
   sensor_msgs
   std_msgs
+  styx_msgs
 )
 
 ################################################
